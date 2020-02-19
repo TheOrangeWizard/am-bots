@@ -1,3 +1,5 @@
+--generic bot for harvesting wheat/beetroot/potatoes/carrots/netherwart
+
 package.loaded.pick = nil
 package.loaded.autoEat = nil
 package.loaded.plantLine = nil
